@@ -1,8 +1,22 @@
 @media screen and (max-width: 800px){
+     .nav-bar{
+          display: block;
+          justify-content: center;
+     }
+     .logo-alura{
+          width: 60%;
+          padding-bottom: 1em;
+     }
+     .menu__itens{
+          justify-content: space-around;
+     }
      .container{
           display: flex;
           flex-wrap: wrap;
           height: 70vh;
+     }
+     .principal{
+          background-image: none;
      }
      .container__caixa{
           margin: 1em;
