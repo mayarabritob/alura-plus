@@ -1,0 +1,73 @@
+@media screen and (max-width: 800px){
+     .nav-bar{
+          display: block;
+          justify-content: center;
+     }
+     .logo-alura{
+          width: 60%;
+          padding-bottom: 1em;
+     }
+     .menu__itens{
+          justify-content: space-around;
+     }
+     .container{
+          display: flex;
+          flex-wrap: wrap;
+          height: 70vh;
+     }
+     .principal{
+          background-image: none;
+     }
+     .container__caixa{
+          margin: 1em;
+     }
+     .container__titulo{
+          font-size: 20px; 
+     }
+     .container__imagem{
+          width: 60%;
+     }
+     .secundario{
+          margin: 1em;
+          text-align: center;
+     }
+     .secundario__imagem{
+          width: 100%;
+     }
+     .descricao__titulo{
+          font-size: 20px; 
+          margin-bottom: 0.5em;
+     }
+     .descricao__texto{
+          font-size: 15px;
+     }
+     .imagem__secundaria{
+          width: 100%;
+     }
+     .dispositivos__titulo{
+          font-size: 20px;
+     }
+     .dispositivos__lista{
+          flex-wrap: wrap;
+     }
+     .lista__item{
+          font-size: 15px;
+     }
+     .rodape{
+          border-top: 1px solid #167BF7;
+     }
+     .rodape__imagem{
+          margin-top: 1em;
+     }
+     .rodape__links{
+          flex-wrap: wrap;
+     }
+     .links__item{
+          font-size: 13px;
+     }
+     .rodape__descricao{
+          margin: 1em;
+          font-size: 10px;
+     }
+
+}
