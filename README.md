@@ -2,11 +2,8 @@
 
 
 Projeto de Front-end desenvolvido usando:
- <br>
  - HTML 
- <br>
  - CSS
- <br>
  - RESPONSIVIDADE MOBILE
  <br>
  <br>
